@@ -1,0 +1,14 @@
+name: shoaib_islamic_app
+description: A simple Islamic Flutter app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
